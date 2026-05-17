@@ -1,8 +1,10 @@
-# PRIMEIRO DESAFIO:
-## Título:
+# COMANDOS DOS DESAFIOS / PROJETOS
+
+## PRIMEIRO DESAFIO:
+### Título:
     classificador-de-nivel-de-heroi.js
 
-## Objetivo
+### Objetivo
 
     Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói, 
     depois utilize uma estrutura de decisão para apresentar alguma das mensagens abaixo:
@@ -16,7 +18,7 @@
     Se XP for entre 9.001 e 10.000= Imortal
     Se XP for maior ou igual a 10.001 = Radiante
 
-## Saída
+### Saída
 
     Ao final deve se exibir uma mensagem:
     "O Herói de nome **{nome}** está no nível de **{nivel}**"
